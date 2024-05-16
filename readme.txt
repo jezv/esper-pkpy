@@ -2,6 +2,9 @@ esper-pkpy
 
 esper python ECS ported to pocketpy (pkpy)
 
+https://github.com/benmoran56/esper/
+https://github.com/pocketpy/pocketpy
+
 get pocketpy...
 https://github.com/pocketpy/pocketpy/archive/refs/tags/v1.4.5.zip
 
